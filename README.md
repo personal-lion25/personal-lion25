@@ -30,6 +30,3 @@ Desarollador web que utiliza las tecnologias de :
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
-Last Edited on: 08/08/2022
