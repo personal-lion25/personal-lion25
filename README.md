@@ -14,7 +14,7 @@
 🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
 ✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at alvaro.durand@ucsp.edu.pe\
 📄 &nbsp;Please have a look at my CV https://drive.google.com/file/d/1j_e2QQjgcy7FbRv69JoFvufS-K6qjKLx/view?usp=drive_link
 </br>
 <br><br>
