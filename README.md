@@ -42,9 +42,7 @@
     </div>
     <div style="flex: 1 0 21%; margin: 5px;">
         <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="Apache Kafka">
-    </div>
-    <div style="flex: 1 0 21%; margin: 5px;">
-        <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+	<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
     </div>
 </div>
 
