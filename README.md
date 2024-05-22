@@ -1,9 +1,9 @@
 
 
 <h1 align="center">
-    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="65">
+    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100">
     <b>Hi, I'm Alvaro Durand Manrique</b>
-    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="65">
+    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="100">
 </h1>
 
 
