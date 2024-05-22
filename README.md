@@ -1,5 +1,8 @@
 
-<h1 align="center"><b>Hi , I'm Alvaro Durand Manrique </b><img src="[[[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif)](https://i.pinimg.com/originals/76/3d/a6/763da6c68be9cdaab0387620732eaa07.gif)" width="35](https://i.gifer.com/origin/91/91a26e026cbaf9bc5bbd1fa87af62a8f_w200.gif)"></h1>
+<h1 align="center"><b>Hi , I'm Alvaro Durand Manrique </b>
+	<h1 align="center"><b>Hi, I'm Alvaro Durand Manrique </b>
+    <img src="https://media1.tenor.com/m/P-J95-PzmjAAAAAC/snorlax-waving.gif" width="35">
+</h1>(https://i.gifer.com/origin/91/91a26e026cbaf9bc5bbd1fa87af62a8f_w200.gif)"></h1>
 
 
 <p align="center">
